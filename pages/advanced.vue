@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>defineModal: Advanced Example</h1>
+    <h1>defineModel: Advanced Example</h1>
     <NuxtLink
       target="_blank"
       to="https://vuejs.org/guide/components/v-model.html#handling-v-model-modifiers"

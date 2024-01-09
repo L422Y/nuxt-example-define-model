@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Nuxt defineModal Basic Example</h1>
-    <p>This is a demo of using defineModal in a custom, resuable component</p>
+    <h1>Nuxt defineModel Basic Example</h1>
+    <p>This is a demo of using defineModel in a custom, resuable component</p>
     <p>
       The `FilterInput` component can be reused throughout the application, to
       share a value across inputs, we utilize `useState`, but this is extra

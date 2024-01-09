@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Nuxt/Vue 3 defineModal Examples</h1>
-    <p>This is a set of demos for using Vue's defineModal with Nuxt</p>
+    <h1>Nuxt/Vue 3 defineModel Examples</h1>
+    <p>This is a set of demos for using Vue's defineModel with Nuxt</p>
     <div class="examples">
       <fieldset>
         <legend>
@@ -9,7 +9,7 @@
         </legend>
         <p>
           Basic implementation of globally shared 2-way binding using
-          defineModal and useState
+          defineModel and useState
         </p>
       </fieldset>
       <fieldset>

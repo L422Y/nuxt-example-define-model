@@ -1,10 +1,10 @@
-# Nuxt/Vue 3 defineModal Examples
+# Nuxt/Vue 3 defineModel Examples
 
-This is a set of demos for using Vue's defineModal with Nuxt
+This is a set of demos for using Vue's defineModel with Nuxt
 
 # Basic Example
 
-Basic implementation of globally shared 2-way binding using defineModal and useState
+Basic implementation of globally shared 2-way binding using defineModel and useState
 
 # Advanced Example
 
